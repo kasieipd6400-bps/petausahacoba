@@ -1,0 +1,8 @@
+streamlit
+pandas
+geopandas==0.14.4
+shapely==2.0.3
+fiona==1.9.6
+pyproj
+pyarrow
+requests
