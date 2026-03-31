@@ -12,7 +12,7 @@ st.title("Dashboard Usaha SLS")
 # CONFIG GOOGLE DRIVE
 # =========================
 ID_DATA = "1GEKjS9r_Qtm1KMM10jzmGVXxFck7dEqn"
-ID_POLY = "1dZfKgYnMAOa_Jb6-SU8tXr65ixb9adg9"
+ID_POLY = "1Y4gPzo-AE67J_LOPYpiSiKTWUmADhSzU"
 
 URL_DATA = f"https://drive.google.com/uc?id={ID_DATA}"
 URL_POLY = f"https://drive.google.com/uc?id={ID_POLY}"
